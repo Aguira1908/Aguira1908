@@ -10,9 +10,6 @@
   <a href="mailto:zikkriamri123@gmail.com">
     <img src="https://img.shields.io/badge/Email-zikkriamri123%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/6281772828482">
-    <img src="https://img.shields.io/badge/WhatsApp-+62%20817--7282--8482-25D366?style=flat&logo=whatsapp&logoColor=white" />
-  </a>
 </p>
 
 ---
